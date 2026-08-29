@@ -1,0 +1,28 @@
+{
+  "name": "Cyber Security",
+  "erforderliche_ects": 180,
+  "studienbeginn": "2025-03-01",
+  "zieltermin": "2028-03-31",
+  "notenziel": 1.5,
+  "semester": [
+    {
+      "nummer": 1,
+      "module": [
+        {"name": "Betriebssysteme, Rechnernetze und verteilte Systeme", "ects": 5, "status": "bestanden", "note": 1.0},
+        {"name": "Einführung in Datenschutz und IT-Sicherheit", "ects": 5, "status": "bestanden", "note": 1.0},
+        {"name": "Einführung in die Programmierung mit Python", "ects": 5, "status": "bestanden", "note": 1.3},
+        {"name": "Einführung in das wissenschaftliche Arbeiten für IT und Technik", "ects": 5, "status": "bestanden", "note": 1.0},
+        {"name": "Projekt: Objektorientierte und funktionale Programmierung mit Python", "ects": 5, "status": "in Bearbeitung", "note": null},
+        {"name": "Praktikum: Informatik", "ects": 30, "status": "bestanden", "note": null}
+      ]
+    },
+    {
+      "nummer": 2,
+      "module": [
+        {"name": "Einführung in die Netzwerkforensik", "ects": 5, "status": "bestanden", "note": 1.3},
+        {"name": "Statistik - Wahrscheinlichkeit und deskriptive Statistik", "ects": 5, "status": "bestanden", "note": 1.3},
+        {"name": "Requirements Engineering", "ects": 5, "status": "bestanden", "note": 1.0}
+      ]
+    }
+  ]
+}
